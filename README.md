@@ -10,4 +10,5 @@ Vagrant is traditionally used to virtualize development environments based on co
 	(*Edit the Vagrantfile and set the box_url variable with your vagrant box.*)
 
 2. Run `vagrant up` from the Vagrantfile directory.
-3; Once completed, access the environment via `vagrant ssh`.
+
+3. Once completed, access the environment via `vagrant ssh`.
