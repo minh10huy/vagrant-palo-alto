@@ -2,7 +2,7 @@
 ## Overview
 Vagrant is a tool for building and managing virtual machine environments in a single workflow. With an easy-to-use workflow and focus on automation, Vagrant lowers development environment setup time.
 
-Vagrant is traditionally used to virtualize development environments based on common Linux and Windows distributions.  This guide provides a detailed overview to deploy the heavily customized operating systems of many common firewall vendors.
+Vagrant is traditionally used to virtualize development environments based on common Linux and Windows distributions.  This guide provides an overview to deploy the heavily customized operating systems of many common firewall vendors.
 
 ## Quick Start
 1. Clone repository
